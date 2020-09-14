@@ -1,0 +1,7 @@
+numpy==1.18.3
+pandas==1.0.3
+plotly==4.6.0
+mxnet==1.6.0
+jupyter==1.0.0
+pytest==5.4.1
+pylint==2.4.4
